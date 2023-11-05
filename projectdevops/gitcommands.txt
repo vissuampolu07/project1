@@ -1,0 +1,38 @@
+// git commands//
+1.git init :
+Top 10 Git Commands Every Developer Should Know
+Top 10 Git Commands Every Developer Should Know
+Gayathri Sankar Raj
+October 27, 2023
+UPDATED
+Git is open-source software and distributed version control system. It helps developers easily handle different versions of a source code. With it, you can know who did what, when, and why. Nowadays, Git has become a must-have tool for any developer, and knowing Git commands is essential for developers to use Git to its full potential. There are hundreds of Git commands, but only a few significant commands are used regularly.
+
+In this article, you will learn the most helpful Git commands that will take you to the next level in development:
+
+git init
+git clone
+git branch
+git checkout
+git add
+git commit
+git push
+git pull
+git merge
+git status
+#1 git init
+The git init command lets us create a new Git repository. This is the first command to start a new project in a GitHub repository. Go to the directory that contains your project files and run the git init command. A hidden .git subdirectory will be added to it.
+
+Usage
+$ git init
+You can also provide a repository name with the git init command.
+
+$ git init <your repository name>
+
+2.git clone : $ git clone <git-repo-url>
+git branch : git branch
+git checkout: git cheack out 
+git add : git add url
+git commit: git commit -m "url"
+git push :git push url.
+git pull : git pull url 
+git clone : 
