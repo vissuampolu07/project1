@@ -1,0 +1,25 @@
+// MOST IMPORTETNT DOCKER COMMANDS FOR PRACTICE \\
+
+
+// for docker version// 
+docker -v
+docker --version
+
+// pull the image//
+docker pull [image name ]
+
+//for images searching//
+docker search
+
+
+// for runn the command //
+ docker run --name [option] -it[interact mod] -d [detachmood] image name
+
+
+// to cheack the conatiner run ot not //
+ docker ps 
+
+
+// how to get into or for going into the running container like java or python//
+
+ex:here for openjdk : docker exec -it javaContainer jshell
